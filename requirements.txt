@@ -58,7 +58,7 @@ huggingface-hub==0.27.1
 idna==3.10
 importlib_metadata==8.5.0
 ipykernel==6.29.5
-ipython==8.32.0
+ipython
 jedi==0.19.2
 Jinja2==3.1.5
 jiter==0.8.2
