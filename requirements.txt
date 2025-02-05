@@ -14,6 +14,7 @@ beautifulsoup4==4.12.3
 boto3==1.36.5
 botocore==1.36.5
 -e ./browser-use
+browser-use
 cachetools==5.5.1
 certifi==2024.12.14
 charset-normalizer==3.4.1
@@ -68,7 +69,7 @@ jsonpointer==3.0.0
 jupyter_client==8.6.3
 jupyter_core==5.7.2
 jusText==3.0.1
-langchain==0.3.14
+langchain
 langchain-anthropic==0.3.3
 langchain-aws==0.2.11
 langchain-core==0.3.31
