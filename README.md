@@ -1,5 +1,5 @@
 <!-- TODO: CHANGE ALL INSTANCES OF "TEMPLATE-README" IN ENTIRE PROJECT TO YOUR PROJECT TITLE-->
-# Cogito x Infor v25 Agenter 
+# Cogito x Infor v25 - Agenter 
 
 
 <div align="center">
