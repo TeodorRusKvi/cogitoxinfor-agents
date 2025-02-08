@@ -9,11 +9,11 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/CogitoNTNU/TEMPLATE-README)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Project Version](https://img.shields.io/badge/version-0.0.1-blue)](https://img.shields.io/badge/version-0.0.1-blue)
+![Cogito Infor Presentation (1)](https://github.com/user-attachments/assets/59dab0e7-83b3-4817-bd34-ead92445ce33)
 
-<img src="docs/images/project-logo.webp" width="50%" alt="Cogito Project Logo" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
-![Cogito Infor Presentation (1)](https://github.com/user-attachments/assets/59dab0e7-83b3-4817-bd34-ead92445ce33)
+
 
 <details> 
 <summary><b>📋 Table of contents </b></summary>
