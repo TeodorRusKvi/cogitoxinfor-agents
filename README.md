@@ -37,15 +37,55 @@
 <!-- TODO: In this Section you describe how to install this project in its intended environment.(i.e. how to get it to run)  
 -->
 
-<!-- TODO: Describe how to configure the project (environment variables, config files, etc.).
 
 ### Configuration
+
+# Create a virtual environment
+```bash
+python -m venv venv
+```
+
+# Activate the environment
+Mac
+```bash
+source venv/bin/activate
+```
+
+Windows
+```bash
+venv\Scripts\activate
+```
+
+```bash
+venv\Scripts\Activate.ps1
+Set-ExecutionPolicy Unrestricted -Scope Process
+```
+
+# Install requirements
+
+If you dont have pip installed. Go to [this link](https://pip.pypa.io/en/stable/installation/#)
+```bash
+pip install -r requrements.txt
+```
+
+
+Install playwright
+```bash
+playwright install
+```
+
 Create a `.env` file in the root directory of the project and add the following environment variables:
 
 ```bash
-OPENAI_API_KEY = 'your_openai_api_key'
-MONGODB_URI = 'your_secret_key'
+OPENAI_API_KEY=""
+ANTHROPIC_API_KEY=
+DEEPSEEK_API_KEY= ""
+# Set to false to disable anonymized telemetry
+ANONYMIZED_TELEMETRY=true
+BROWSER_USE_LOGGING_LEVEL=info
 ```
+
+
 -->
 
 ### Prerequisites
@@ -60,7 +100,7 @@ For example: OS version, programs, libraries, etc.
 ## Usage
 To run the project, run the following command from the root directory of the project:
 ```bash
-
+python3 main.py
 ```
 <!-- TODO: Instructions on how to run the project and use its features. -->
 
