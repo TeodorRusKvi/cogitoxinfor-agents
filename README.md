@@ -68,7 +68,6 @@ If you dont have pip installed. Go to [this link](https://pip.pypa.io/en/stable/
 pip install -r requrements.txt
 ```
 
-
 Install playwright
 ```bash
 playwright install
