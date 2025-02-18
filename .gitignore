@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-
+agent_history.gif
 .myvenv/
 
 # C extensions
