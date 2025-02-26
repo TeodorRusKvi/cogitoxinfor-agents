@@ -67,6 +67,9 @@ If you dont have pip installed. Go to [this link](https://pip.pypa.io/en/stable/
 ```bash
 pip install -r requrements.txt
 ```
+```bash
+pip install browser-use
+```
 
 Install playwright
 ```bash
